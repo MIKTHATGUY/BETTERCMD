@@ -7,7 +7,7 @@ an easy guide to install some plugins to make your cmd look better on windows
 # Tools setup
 
 ## Scoop Installation
-scoop is a tool we will need for the installation of all the other packages if you already have it you can skip this part and go to the 
+scoop is a tool we will need for the installation of all the other packages if you already have it you can skip this part
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
